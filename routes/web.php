@@ -37,7 +37,7 @@ $blog_posts = [
     [
         "title" => "Judul Post Kedua",
         "author" => "Adisti Khairunnisa",
-        "body" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum voluptatibus vel officia ea sunt dolor. Amet esse exercitationem quia, quis doloremque sunt deserunt ut, incidunt temporibus autem cum quaerat illum ea rem nostrum aut odit! Voluptate quasi, vitae perferendis corrupti tempora, dolorum perspiciatis doloribus cum itaque nobis fugit quas consectetur, iure impedit voluptatem! Veritatis omnis aut soluta fugit similique. Iste temporibus nemo aspernatur molestiae laudantium. Aliquid, doloremque incidunt delectus perspiciatis obcaecati deserunt aperiam nulla cum. Quaerat iusto modi quae in."
+        "body" => "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur cum eos omnis corporis vero ipsam ullam iure quidem animi fugiat, dolorem doloremque nisi praesentium quaerat quisquam aut soluta eum! Nostrum illo eum quia consequuntur accusamus, tempore quod reprehenderit voluptates suscipit delectus similique sed, fugit minus nulla sequi itaque quisquam aliquam beatae iure. Atque tempore quae ad necessitatibus sit inventore consequatur, vero voluptate. Eligendi, saepe a, pariatur illo dolore impedit dolores architecto quo sed eaque labore laudantium? Quisquam quod libero unde omnis nisi. Id enim voluptatem a veritatis laboriosam fugit maiores rem, voluptatibus incidunt vel, aliquid soluta aperiam porro. Cupiditate, laboriosam!"
     ],
 ];
 
