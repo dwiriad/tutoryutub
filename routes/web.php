@@ -40,7 +40,7 @@ Route::get('/blog', function(){
         [
             "title" => "Judul Post Kedua",
             "slug" => "judul-post-kedua",
-            "author" => "Adisti Khairunnisa",
+            "author" => "Adisti Khairunnisa Nuzli",
             "body" => "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur cum eos omnis corporis vero ipsam ullam iure quidem animi fugiat, dolorem doloremque nisi praesentium quaerat quisquam aut soluta eum! Nostrum illo eum quia consequuntur accusamus, tempore quod reprehenderit voluptates suscipit delectus similique sed, fugit minus nulla sequi itaque quisquam aliquam beatae iure. Atque tempore quae ad necessitatibus sit inventore consequatur, vero voluptate. Eligendi, saepe a, pariatur illo dolore impedit dolores architecto quo sed eaque labore laudantium? Quisquam quod libero unde omnis nisi. Id enim voluptatem a veritatis laboriosam fugit maiores rem, voluptatibus incidunt vel, aliquid soluta aperiam porro. Cupiditate, laboriosam!"
         ],
     ];
@@ -63,7 +63,7 @@ Route::get('posts/{slug}', function($slug){
         [
             "title" => "Judul Post Kedua",
             "slug" => "judul-post-kedua",
-            "author" => "Adisti Khairunnisa",
+            "author" => "Adisti Khairunnisa Nuzli",
             "body" => "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur cum eos omnis corporis vero ipsam ullam iure quidem animi fugiat, dolorem doloremque nisi praesentium quaerat quisquam aut soluta eum! Nostrum illo eum quia consequuntur accusamus, tempore quod reprehenderit voluptates suscipit delectus similique sed, fugit minus nulla sequi itaque quisquam aliquam beatae iure. Atque tempore quae ad necessitatibus sit inventore consequatur, vero voluptate. Eligendi, saepe a, pariatur illo dolore impedit dolores architecto quo sed eaque labore laudantium? Quisquam quod libero unde omnis nisi. Id enim voluptatem a veritatis laboriosam fugit maiores rem, voluptatibus incidunt vel, aliquid soluta aperiam porro. Cupiditate, laboriosam!"
         ],
     ];
