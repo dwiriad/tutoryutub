@@ -24,3 +24,7 @@ Route::get('/about', function(){
         "image" => "ria.png"
     ]);
 });
+
+Route::get('/blog', function(){
+    return view('posts');
+});
