@@ -21,6 +21,6 @@ Route::get('/about', function(){
     return view('about', [
         "name" => "Dwi Ria Wulandari",
         "email" => "dwiria@gmail.com",
-        "image" => "ria.jpg"
+        "image" => "ria.png"
     ]);
 });
